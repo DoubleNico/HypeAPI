@@ -1,0 +1,5 @@
+main: me.doublenico.hypeapi.HypeAPI
+name: HypeAPI
+version: '1.0'
+description: HypeAPI
+author: DoubleNico
